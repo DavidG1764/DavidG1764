@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1 align="center"> Hola, soy David ✨</h1>
 </div>
-[![Youtube Channel] Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCMMo0eFjABnxCPGcP7xVAg?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCMMo0eFjABnxCPGcP7xVAg?style=social)
 
 <!--
 **DavidG1764/DavidG1764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
